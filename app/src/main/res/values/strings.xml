@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="title">Title</string>
+    <string name="dummy_release">xx/xx/xxxx</string>
+    <string name="dummy_rating">xx.xx</string>
+    <string name="desc">Description :</string>
+    <string name="dummy_overview">Ini adalah film Ini adalah film Ini adalah film Ini adalah film Ini adalah film Ini adalah film Ini adalah film Ini adalah film Ini adalah film</string>
+    <string name="home">HOME</string>
+    <string name="fav">FAV</string>
+    <string name="best_vote">Best Vote</string>
+    <string name="worst_vote">Worst Vote</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="empty_list">Empty List</string>
+    <string name="release">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+    <string name="dummy_popularity">xxx.xxx</string>
+    <string name="colon">: </string>
+    <string name="share">Share</string>
+    <string name="Recommendation">Here is Recommendation to Watch!!!</string>
+    <string name="title_fav">fav</string>
+</resources>

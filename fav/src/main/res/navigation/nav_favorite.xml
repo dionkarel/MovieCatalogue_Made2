@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/fragment_favorite"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/fragment_favorite"
+        android:name="com.dicoding.moviecatalogue_made.fav.favorite.FavoriteFragment"
+        android:label="fragment_favorite"
+        app:moduleName="fav"
+        tools:layout="@layout/fragment_favorite" />
+
+</navigation>
