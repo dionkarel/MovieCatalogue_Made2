@@ -10,7 +10,7 @@ apply from: '../shared_dependencies.gradle'
 
 android {
     compileSdk 32
-    buildToolsVersion "30.0.3"
+    buildToolsVersion "32"
 
     defaultConfig {
         applicationId "com.dicoding.moviecatalogue_made"
